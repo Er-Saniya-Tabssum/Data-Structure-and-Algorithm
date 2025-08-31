@@ -72,10 +72,10 @@ Graph representation, BFS, DFS, shortest paths (Dijkstra), and MST algorithms.
 Efficient prefix data structure for autocomplete, dictionary problems, and XOR queries.  
 
 ### ⬜ **22. Dynamic Programming (DP)**  
----
-Saniya Tabssum
 Solving optimization problems using memoization and tabulation; includes LIS, knapsack, DP on grids.  
 
 ---
 
 ✨ Each topic will have its own folder with **problem list + code + explanation**.  
+---
+Saniya Tabssum
