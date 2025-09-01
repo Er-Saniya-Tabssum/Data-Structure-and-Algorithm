@@ -268,6 +268,8 @@ Get comfortable with arrays, vectors, sets, maps, and common STL operations.
 
 ⚡ **Improve speed with formulas & STL shortcuts**  
 Use mathematical formulas for efficiency and leverage STL inbuilt functions like `sort()`, `binary_search()`, etc.  
+---
+Saniya Tabssum
 
 ✨ **Keep practicing & stay consistent**  
 Regular practice builds problem-solving skills and speed.  
